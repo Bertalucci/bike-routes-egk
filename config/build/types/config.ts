@@ -11,7 +11,7 @@ export interface BuildPaths {
     build: string;
     /** Путь до файла index.html */
     html: string;
-    /*src: string;*/
+    src: string;
 }
 
 export interface BuildEnv {
